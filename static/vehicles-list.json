@@ -1,0 +1,22 @@
+{
+  "vehicles": [
+    {
+      "title": "Honda Civic",
+      "subtitle": "Midsize Sedan",
+      "description": "Great car that gets you from point a to point b",
+      "imgSrc": "https://images.edealer.ca/2/49325901.jpeg"
+    },
+    {
+      "title": "Toyota Corolla",
+      "subtitle": "Midsize Sedan",
+      "description": "Great car that gets you from point a to point b",
+      "imgSrc": "https://postmediadriving.files.wordpress.com/2017/11/chrome-image-395391.png?w=800&h=520&crop=1"
+    },
+    {
+      "title": "Nissan Sentra",
+      "subtitle": "Midsize Sedan",
+      "description": "Great car that gets you from point a to point b",
+      "imgSrc": "https://images.edealer.ca/2/49325901.jpeg"
+    }
+  ]
+}
